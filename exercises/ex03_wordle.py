@@ -1,6 +1,6 @@
 """EX03 - Wordle."""
 
-__author__ = 730490949
+__author__ = "730490949"
 
 WHITE_BOX: str = "\U00002B1C"
 GREEN_BOX: str = "\U0001F7E9"
